@@ -15,3 +15,5 @@ all: $(PDFS)
 
 %.pdf: %.tex
 	xelatex $<
+	makeindex $*.idx
+	xelatex $<
