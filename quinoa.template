@@ -1,0 +1,11 @@
+\documentclass[11pt]{quinoa}
+
+\begin{document}
+\title{Composers}
+\maketitle
+
+\tableofcontents
+
+$body$
+
+\end{document}
